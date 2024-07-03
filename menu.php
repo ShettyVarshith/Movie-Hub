@@ -1,0 +1,13 @@
+<div class="collapse navbar-collapse navbar-ex1-collapse" >
+	<ul class="nav navbar-nav navbar-right cl-effect-15">
+			<li><a  style="color:  white;" href="index.php">Home</a></li> 
+			<li><a  style="color:  white;" href="about.php">About</a></li>
+			<li><a  style="color:  white;" href="displaytheatre.php">Theatre</a></li>
+			<li><a  style="color:  white;" href="displaymovie.php">Movie</a></li>
+			<li><a  style="color:  white;" href="displaysnacks.php">Snacks</a></li>
+			<li><a  style="color:  white;" href="contact.php">Contact</a></li>
+			<li>
+			<a style="color: white;" href="videos\userguide.mp4" ><i class="fa fa-video" aria-hidden="true"></i> User Guide<span></span></a></li>
+	</ul>
+</div>
+<!-- /.navbar-collapse -->
